@@ -1,7 +1,7 @@
-﻿"age,gender,polyuria,polydipsia,sudden_weight_loss,weakness,polyphagia,genital_thrush,visual_blurring,itching,irritability,delayed_healing,partial_paresis,muscle_stiffness,alopecia,obesity,class"
-"40,Male,0,1,0,1,0,0,0,1,0,1,0,1,1,1,1"
-"58,Male,0,0,0,1,0,0,1,0,0,0,1,0,1,0,1"
-"41,Male,1,0,0,1,1,0,0,1,0,1,0,1,1,0,1"
+﻿age,gender,polyuria,polydipsia,sudden_weight_loss,weakness,polyphagia,genital_thrush,visual_blurring,itching,irritability,delayed_healing,partial_paresis,muscle_stiffness,alopecia,obesity,class
+40,Male,0,1,0,1,0,0,0,1,0,1,0,1,1,1,1
+58,Male,0,0,0,1,0,0,1,0,0,0,1,0,1,0,1
+41,Male,1,0,0,1,1,0,0,1,0,1,0,1,1,0,1
 "45,Male,0,0,1,1,1,1,0,1,0,1,0,0,0,0,1"
 "60,Male,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1"
 "55,Male,1,1,0,1,1,0,1,1,0,1,0,1,1,1,1"
